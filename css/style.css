@@ -1,0 +1,37 @@
+div {
+    background-color: yellow;
+    height: 20px;
+    width: 20px;
+}
+
+.grid {
+    background-color: blue;
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.previus-grid {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.previus-shape {
+    height: 80px;
+    width: 80px;    
+}
+
+.block {
+    background-color: blue;
+}
+
+.block2 {
+    background-color: purple;
+}
+
+.block3 {
+    background-color: green;
+}
